@@ -10,7 +10,7 @@
    Configuration
 ========================================================= */
 
-const API_BASE_URL = "http://127.0.0.1:5000";
+const API_BASE_URL = "https://cairo1455.pythonanywhere.com";
 
 const COMPRESS_API_URL =
     `${API_BASE_URL}/api/compress-pdf`;
