@@ -58,8 +58,7 @@ const nav = document.querySelector(".nav");
     /api/convert-pdf-to-word
 */
 
-const API_URL = "https://abdulrahman777.pythonanywhere.com/api/convert-pdf-to-word";
-
+const API_BASE_URL = "https://cairo1455.pythonanywhere.com";
 /*
     الحد الأقصى لحجم الملف.
 
